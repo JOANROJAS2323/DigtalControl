@@ -111,7 +111,7 @@
  
  Aplicamos la transformada inversa de LaPlace
  
- $L^{-1}\left\{ \frac{1}{s^{2}+4}\right\}=\frac{sin(2t)}{2}$
+ $L(y^{''})-2L(y^{'})+2L(y)=L\left\{ u_{\pi }(t)\right\}$
  
  La segunda parte requiere de la formula:
  
