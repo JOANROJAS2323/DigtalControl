@@ -115,7 +115,7 @@
  
  La segunda parte requiere de la formula:
  
- $L^{-1}=\left\{ \frac{2}{(s^{2}+4)^{2}}\right\}=\frac{t}{2}sin(2t)$
+ $L^{-1}=\frac{2}{(s^{2}+4)^{2}}=\frac{t}{2}sin(2t)$
  
  Por lo tanto
  
