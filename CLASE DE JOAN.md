@@ -93,7 +93,7 @@
  
  Aplicamos la Transformada de Laplace a ambos lados
  
- $L{y^{''}}+4L{y}=L{sin(2t)}$
+ $L(y^{''})+4L(y)=L{sin(2t)}$
  
  Usamos las transformadas
  
