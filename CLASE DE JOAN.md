@@ -101,7 +101,7 @@
  
  $L{y}=Y(s)$
  
- $L\left\{sen(2t) \right\}=\frac{2}{s^{2}+4}$
+ $L\left [ sen(2t) \right ]=\frac{2}{s^{2}+4}$
  
  Despejamos Y(s)
  
