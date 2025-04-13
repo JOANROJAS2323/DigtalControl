@@ -137,7 +137,7 @@
  
  Y para la funcion escalon:
  
- $L\left\{ u_{\pi }(t)\right\}=\frac{e^{-\pi s}}{s}$
+ $L\left [ u_{\pi }(t) \right ]=\frac{e^{-\pi s}}{s}$
  
  Entonces
  
