@@ -131,9 +131,9 @@
  
  $L(y^{''})=s^{2}Y(s)-ys(0)-y^{'}(0)=s^{2}Y(s)-1$
  
- $L\left\{ y^{'}\right\}=sY(s)-y(0)=sY(s)$
+ $L(y^{'})=sY(s)-y(0)=sY(s)$
  
- $L\left\{ y\right\}=Y(s)$
+ $L(y)=Y(s)$
  
  Y para la funcion escalon:
  
