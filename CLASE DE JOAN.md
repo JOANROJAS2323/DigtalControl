@@ -157,7 +157,7 @@
  
  La segunda requiere descomócision por partes (fraciones parciales y formulas)
  
- $L^{-1}\left\{ \frac{e^{-\pi s}}{s(s^{2}-2s+2)}\right\}=u_{\pi }(t)*g(t-\pi )$
+ $L^{-1}\left [ \frac{e^{-\pi s}}{s(s^{2}-2s+2)} \right ]=u_{\pi }(t)*g(t-\pi )$
  
  Donde g es la transformada inversa de $\frac{1}{s(s^{2}-2s+2)}$ que se obtiene aplicando la inversa
  Y con esto llegamos a la solucion de la ecuacion
