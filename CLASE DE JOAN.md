@@ -152,7 +152,7 @@
  
  Primera parte:
  
- $L^{-1}\left\{ \frac{1}{(s-1)^{2}+1}\right\}=e^{t}sin(t)$
+ $L^{-1}\left [ \frac{1}{(s-1)^{2}+1} \right ]=e^{t}sin(t)$
  
  
  La segunda requiere descomócision por partes (fraciones parciales y formulas)
