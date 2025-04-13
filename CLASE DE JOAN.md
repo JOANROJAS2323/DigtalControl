@@ -125,7 +125,7 @@
  
  Aplicamos la transformada de Laplace
  
- $L(y^{''})-2L(y^{'})+2L(y)=L\left\{ u_{\pi }(t)\right\}$
+ $L(y^{''})-2L(y^{'})+2L(y)=Lu_{\pi }(t) $
  
  usamos:
  
